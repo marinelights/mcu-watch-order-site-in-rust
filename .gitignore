@@ -1,0 +1,7 @@
+# Rust build output (rebuilt by `node rust/build.mjs` and by GitHub Actions)
+rust/target/
+rust/pkg/
+
+# Local editor/OS clutter
+.DS_Store
+Thumbs.db

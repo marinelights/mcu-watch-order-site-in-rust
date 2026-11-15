@@ -1,0 +1,61 @@
+IM|F|Iron Man|May 2008|126||||
+HU|F|The Incredible Hulk|Jun 2008|112||||
+I2|F|Iron Man 2|May 2010|124||IM|
+TH|F|Thor|May 2011|115||||
+CA|F|Captain America: The First Avenger|Jul 2011|124||||
+AV|F|The Avengers|May 2012|143||IM,TH,CA|HU,I2
+I3|F|Iron Man 3|May 2013|130||AV|
+TD|F|Thor: The Dark World|Nov 2013|112||TH,AV|
+WS|F|Captain America: The Winter Soldier|Apr 2014|136||CA,AV|
+GG|F|Guardians of the Galaxy|Aug 2014|121||||
+DD|N|Daredevil (3 seasons)|Apr 2015|2030|1|||
+AU|F|Avengers: Age of Ultron|May 2015|141||AV,WS|I3,TD
+AN|F|Ant-Man|Jul 2015|117|||AV
+JJ|N|Jessica Jones (3 seasons)|Nov 2015|1950|1||DD
+CW|F|Captain America: Civil War|May 2016|147||WS,AU|AN
+LC|N|Luke Cage (2 seasons)|Sep 2016|1430|1||JJ
+DS|F|Doctor Strange|Nov 2016|115|||AV
+IF|N|Iron Fist (2 seasons)|Mar 2017|1150|1||LC
+G2|F|Guardians of the Galaxy Vol. 2|May 2017|136||GG|
+HC|F|Spider-Man: Homecoming|Jul 2017|133||CW|AV
+DF|N|The Defenders|Aug 2017|400|1|DD,JJ,LC,IF|
+RG|F|Thor: Ragnarok|Nov 2017|130||TH,AV|TD,DS
+PU|N|The Punisher (2 seasons)|Nov 2017|1350|1||DD
+BP|F|Black Panther|Feb 2018|134||CW|
+IW|F|Avengers: Infinity War|Apr 2018|149||CW,RG,BP,GG,DS|HC,AU
+AW|F|Ant-Man and the Wasp|Jul 2018|118||AN|CW
+CM|F|Captain Marvel|Mar 2019|123|||AV
+EG|F|Avengers: Endgame|Apr 2019|181||IW,AW,CM|
+FF|F|Spider-Man: Far From Home|Jul 2019|129||HC,EG|
+WV|D|WandaVision|Jan 2021|360|1|AU,EG|
+FS|D|The Falcon and the Winter Soldier|Mar 2021|330|1|EG,CW|
+L1|D|Loki, season 1|Jun 2021|270|1|EG|
+BW|F|Black Widow|Jul 2021|134||CW|EG
+SC|F|Shang-Chi and the Legend of the Ten Rings|Sep 2021|132|||AV
+ET|F|Eternals|Nov 2021|156||EG|
+HA|D|Hawkeye|Nov 2021|270|1|EG|BW
+NW|F|Spider-Man: No Way Home|Dec 2021|148||FF,DS|EG
+MK|D|Moon Knight|Mar 2022|270|1|||
+MM|F|Doctor Strange in the Multiverse of Madness|May 2022|126||DS,WV,NW|L1
+MS|D|Ms. Marvel|Jun 2022|240|1||EG,CM
+LT|F|Thor: Love and Thunder|Jul 2022|119||RG,EG|G2
+SH|D|She-Hulk: Attorney at Law|Aug 2022|300|1||EG
+WF|F|Black Panther: Wakanda Forever|Nov 2022|161||BP,EG|
+QM|F|Ant-Man and the Wasp: Quantumania|Feb 2023|125||AW,L1|EG
+G3|F|Guardians of the Galaxy Vol. 3|May 2023|150||GG,G2|LT
+L2|D|Loki, season 2|Oct 2023|285|1|L1|
+MV|F|The Marvels|Nov 2023|105||CM,WV,MS|FF
+EC|D|Echo|Jan 2024|225|1|HA|DD
+DW|F|Deadpool & Wolverine|Jul 2024|128|||L1,L2
+AG|D|Agatha All Along|Sep 2024|330|1|WV|MM
+BN|F|Captain America: Brave New World|Feb 2025|118||CW,FS,EG|ET
+D1|D|Daredevil: Born Again, season 1|Mar 2025|450|1|DD|DF,EC
+TB|F|Thunderbolts* (“New Avengers”)|May 2025|127||BW,FS,BN|HU
+IR|D|Ironheart|Jun 2025|270|1|WF|
+F4|F|The Fantastic Four: First Steps|Jul 2025|115||||
+WM|D|Wonder Man|Jan 2026|300|1|||
+D2|D|Daredevil: Born Again, season 2|Mar 2026|360|1|D1|
+PS|D|The Punisher: One Last Kill (special)|2026|60|1|PU,D1|
+BD|F|Spider-Man: Brand New Day|Jul 2026|130|1|NW,FF,HC|EG,DS
+VQ|D|VisionQuest|Oct 2026|360|1|WV,AU|AG,MM
+DM|U|Avengers: Doomsday|Dec 2026|0|1|F4,TB,BD,VQ,EG|D2,WM,DW,BN,IR
